@@ -1,21 +1,21 @@
 # Parte tecnica
 
-- Bibliotecas de stream do java
-- Banco de dados relacional vs Não relacional
-- Api reactiva do java
+- [Bibliotecas de stream do java](./streams/streams.md)
+- [Banco de dados relacional vs Não relacional](./banco-dados/banco-dados.md)
+- [Api reactiva do java](https://github.com/fabriciosouza21/reactive/blob/main/udemy/Conceitos/conceitos.md)
 - principais features do java(spring, hibernate, postgres)
 
 
-Claro! Abaixo está o mesmo conteúdo com **ícones temáticos** inseridos para melhorar a leitura e visualmente separar as seções. Mantenho os emojis discretos e apropriados para cada contexto técnico:
 
----
+
 # Banco de dados relacional vs Não relacional
+
+
 
 - https://aws.amazon.com/pt/compare/the-difference-between-relational-and-non-relational-databases/
 - https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases
 
 - https://aws.amazon.com/pt/relational-database/
--
 
 - https://www.integrate.io/blog/the-sql-vs-nosql-difference/
 - https://insightsoftware.com/blog/whats-the-difference-relational-vs-non-relational-databases/
@@ -50,6 +50,3 @@ Claro! Abaixo está o mesmo conteúdo com **ícones temáticos** inseridos para 
 - https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-5.3-Release-Notes
 - https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-4.x
 
-## Postgres
-
-- https://www.postgresql.fastware.com/blog/discussing-postgresql-what-changes-in-version-16

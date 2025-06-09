@@ -12,12 +12,16 @@ Claro! Abaixo está o mesmo conteúdo com **ícones temáticos** inseridos para 
 # Banco de dados relacional vs Não relacional
 
 - https://aws.amazon.com/pt/compare/the-difference-between-relational-and-non-relational-databases/
+- https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases
+
+- https://aws.amazon.com/pt/relational-database/
+-
+
 - https://www.integrate.io/blog/the-sql-vs-nosql-difference/
 - https://insightsoftware.com/blog/whats-the-difference-relational-vs-non-relational-databases/
 - https://atlan.com/relational-database-vs-nosql/
-- https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases
 
-
+- https://aws.amazon.com/pt/nosql/
 
 # API reativa do Java
 
